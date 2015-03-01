@@ -1,5 +1,5 @@
 # Pintagram
-unofficial client for Telegram (telegram.org )
+Unofficial client for Telegram (telegram.org )
 
 # Software Architecture
  Native Hybrid BB10 Apps avaiable in BlackBerry World 
@@ -10,10 +10,10 @@ unofficial client for Telegram (telegram.org )
 
 
 # Features
- Based on official app
- Reliable
- Complete
- Frequently updated
+ Based on official app,
+ Reliable,
+ Complete,
+ Frequently updated, .. 
  
 #ToDo
 Secret Chats
