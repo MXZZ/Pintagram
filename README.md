@@ -25,7 +25,6 @@ Secret Chats
 The source code is licensed under GPL v3. License is available here.
 
 # Contact 
-Contact me at mg.divenire@gmail.com
 
-Pintagram brand, logo and name (C) Marco Gallo
+Pintagram brand, logo and name (C) MG
 
